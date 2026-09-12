@@ -1,0 +1,10 @@
+{
+  "name": "F.R.I.D.A.Y. - Futuristic AI Voice Assistant",
+  "description": "Futuristic bilingual AI voice assistant with glassmorphism UI, animated glowing AI orb, voice and text interaction in Telugu and English, and smart utilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
